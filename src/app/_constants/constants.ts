@@ -1,0 +1,1 @@
+export const NUMBER_OF_FRUITS_TO_FETCH : number = 10
